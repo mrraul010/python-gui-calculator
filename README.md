@@ -19,4 +19,6 @@ A sleek, desktop calculator built with Python and Tkinter. This project focuses 
 1. **Clone the repository:**
 
    git clone https://github.com/mrraul010/python-gui-calculator.git
+
+
    cd guicalculator
